@@ -1,0 +1,11 @@
+:root{
+    --mainColor:#fe3173;
+}
+
+body{
+    height: 1000px;
+}
+
+.navbar-nav .nav-link.active{
+    color: var(--mainColor);
+}
